@@ -1,7 +1,5 @@
 # prevendo-doenca-cardicaca
 
-Como é um caso de classificação binária, vamos treinar 2 modelos de aprendizado de máquina: 
-a) Árvore de Decisão
-b) Regressão Logística 
+Como é um caso de classificação binária, vamos um modelo de aprendizado de máquina, o Random Forest
+Vamos fazer as transformações necessárias nas variáveis, vamos exibir a matriz de confusão e a taxa de acerto para o modelo
 
-Ao final iremos escolher o melhor dentre eles para a previsão.
